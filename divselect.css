@@ -1,0 +1,31 @@
+.divselect_outter {
+  width: 200px;
+  height: 30px;
+  color: #f8f1c5;
+}
+.ds_cont {
+  position: relative;
+  height: 30px;
+  line-height: 30px;
+  background: #310c3d;
+  padding-left: 20px;
+}
+.ds_button {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: red;
+  right: 0;
+  top: 0;
+}
+.ds_list {
+  display: block;
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100%;
+  background: #310c3d;
+}
+.ds_list p {
+  padding-left: 20px;
+}
